@@ -1,0 +1,801 @@
+{
+    "last_refreshed": "Jun 08, 2024 02:49 PM",
+    "I-765_CSC_147-C26": {
+        "data": {
+            "processing_time": {
+                "form_info_en": "Application for Employment Authorization",
+                "form_info_es": "Solicitud de Autorizaci\u00f3n de Empleo",
+                "form_name": "I-765",
+                "form_note_en": null,
+                "form_note_es": null,
+                "office_code": "CSC",
+                "pilot_content_en": "We generally process cases in the order we receive them. This processing time is based on how long it took us to complete 80% of adjudicated cases over the past six months. Each case is unique, and some cases may take longer than others. Processing times should be used as a reference point, not an absolute measure of how long your case will take to be completed.",
+                "pilot_content_es": "Generalmente procesamos los casos en el orden en que los recibimos. Este tiempo de procesamiento est\u00e1 basado en cu\u00e1nto nos llev\u00f3 completar el 80% de los casos adjudicados en los \u00faltimos seis meses. Cada caso es \u00fanico y algunos casos podr\u00edan tomar m\u00e1s tiempo que otros. Los tiempos de procesamiento deben ser utilizados como puntos de referencia y no como una medida absoluta de cu\u00e1nto tomar\u00e1 su caso en completarse.",
+                "pilot_form": true,
+                "range": [
+                    {
+                        "unit": "Months",
+                        "unit_en": "Months",
+                        "unit_es": "Meses",
+                        "value": 6.5
+                    },
+                    {
+                        "unit": "Months",
+                        "unit_en": "Months",
+                        "unit_es": "Meses",
+                        "value": 5
+                    }
+                ],
+                "subtypes": [
+                    {
+                        "form_type": "147-C26",
+                        "publication_date": "June 03, 2024",
+                        "range": [
+                            {
+                                "unit": "Months",
+                                "unit_en": "Months",
+                                "unit_es": "Meses",
+                                "value": 6.5
+                            },
+                            {
+                                "unit": "Months",
+                                "unit_en": "Months",
+                                "unit_es": "Meses",
+                                "value": 5
+                            }
+                        ],
+                        "service_request_date": "November 28, 2023",
+                        "service_request_date_en": "November 28, 2023",
+                        "service_request_date_es": "28 de noviembre de 2023",
+                        "subtype_info_en": "Based on being an H-4 spouse of an H-1B nonimmigrant (Standalone; not filed with I-539 H4) [(c)(26)]",
+                        "subtype_info_es": "Basado en ser un c\u00f3nyuge de un no inmigrante H-1B (presentado independientemente, no con el I-539 H4) [(c)(26)]",
+                        "subtype_note_en": null,
+                        "subtype_note_es": null
+                    }
+                ]
+            }
+        },
+        "message": "Query was successful for payload {'form_name': 'I-765', 'office_code': 'CSC', 'form_type': '147-C26'}"
+    },
+    "I-765_NSC_147-C26": {
+        "data": {
+            "processing_time": {
+                "form_info_en": "Application for Employment Authorization",
+                "form_info_es": "Solicitud de Autorizaci\u00f3n de Empleo",
+                "form_name": "I-765",
+                "form_note_en": null,
+                "form_note_es": null,
+                "office_code": "NSC",
+                "pilot_content_en": "We generally process cases in the order we receive them. This processing time is based on how long it took us to complete 80% of adjudicated cases over the past six months. Each case is unique, and some cases may take longer than others. Processing times should be used as a reference point, not an absolute measure of how long your case will take to be completed.",
+                "pilot_content_es": "Generalmente procesamos los casos en el orden en que los recibimos. Este tiempo de procesamiento est\u00e1 basado en cu\u00e1nto nos llev\u00f3 completar el 80% de los casos adjudicados en los \u00faltimos seis meses. Cada caso es \u00fanico y algunos casos podr\u00edan tomar m\u00e1s tiempo que otros. Los tiempos de procesamiento deben ser utilizados como puntos de referencia y no como una medida absoluta de cu\u00e1nto tomar\u00e1 su caso en completarse.",
+                "pilot_form": true,
+                "range": [
+                    {
+                        "unit": "Months",
+                        "unit_en": "Months",
+                        "unit_es": "Meses",
+                        "value": 6.5
+                    },
+                    {
+                        "unit": "Months",
+                        "unit_en": "Months",
+                        "unit_es": "Meses",
+                        "value": 6
+                    }
+                ],
+                "subtypes": [
+                    {
+                        "form_type": "147-C26",
+                        "publication_date": "June 03, 2024",
+                        "range": [
+                            {
+                                "unit": "Months",
+                                "unit_en": "Months",
+                                "unit_es": "Meses",
+                                "value": 6.5
+                            },
+                            {
+                                "unit": "Months",
+                                "unit_en": "Months",
+                                "unit_es": "Meses",
+                                "value": 6
+                            }
+                        ],
+                        "service_request_date": "December 02, 2023",
+                        "service_request_date_en": "December 02, 2023",
+                        "service_request_date_es": "02 de diciembre de 2023",
+                        "subtype_info_en": "Based on being an H-4 spouse of an H-1B nonimmigrant (Standalone; not filed with I-539 H4) [(c)(26)]",
+                        "subtype_info_es": "Basado en ser un c\u00f3nyuge de un no inmigrante H-1B (presentado independientemente, no con el I-539 H4) [(c)(26)]",
+                        "subtype_note_en": null,
+                        "subtype_note_es": null
+                    }
+                ]
+            }
+        },
+        "message": "Query was successful for payload {'form_name': 'I-765', 'office_code': 'NSC', 'form_type': '147-C26'}"
+    },
+    "I-765_SSC_147-C26": {
+        "data": {
+            "processing_time": {
+                "form_info_en": "Application for Employment Authorization",
+                "form_info_es": "Solicitud de Autorizaci\u00f3n de Empleo",
+                "form_name": "I-765",
+                "form_note_en": null,
+                "form_note_es": null,
+                "office_code": "SSC",
+                "pilot_content_en": "We generally process cases in the order we receive them. This processing time is based on how long it took us to complete 80% of adjudicated cases over the past six months. Each case is unique, and some cases may take longer than others. Processing times should be used as a reference point, not an absolute measure of how long your case will take to be completed.",
+                "pilot_content_es": "Generalmente procesamos los casos en el orden en que los recibimos. Este tiempo de procesamiento est\u00e1 basado en cu\u00e1nto nos llev\u00f3 completar el 80% de los casos adjudicados en los \u00faltimos seis meses. Cada caso es \u00fanico y algunos casos podr\u00edan tomar m\u00e1s tiempo que otros. Los tiempos de procesamiento deben ser utilizados como puntos de referencia y no como una medida absoluta de cu\u00e1nto tomar\u00e1 su caso en completarse.",
+                "pilot_form": true,
+                "range": [
+                    {
+                        "unit": "Months",
+                        "unit_en": "Months",
+                        "unit_es": "Meses",
+                        "value": 10.5
+                    },
+                    {
+                        "unit": "Months",
+                        "unit_en": "Months",
+                        "unit_es": "Meses",
+                        "value": 9.5
+                    }
+                ],
+                "subtypes": [
+                    {
+                        "form_type": "147-C26",
+                        "publication_date": "June 03, 2024",
+                        "range": [
+                            {
+                                "unit": "Months",
+                                "unit_en": "Months",
+                                "unit_es": "Meses",
+                                "value": 10.5
+                            },
+                            {
+                                "unit": "Months",
+                                "unit_en": "Months",
+                                "unit_es": "Meses",
+                                "value": 9.5
+                            }
+                        ],
+                        "service_request_date": "August 08, 2023",
+                        "service_request_date_en": "August 08, 2023",
+                        "service_request_date_es": "08 de agosto de 2023",
+                        "subtype_info_en": "Based on being an H-4 spouse of an H-1B nonimmigrant (Standalone; not filed with I-539 H4) [(c)(26)]",
+                        "subtype_info_es": "Basado en ser un c\u00f3nyuge de un no inmigrante H-1B (presentado independientemente, no con el I-539 H4) [(c)(26)]",
+                        "subtype_note_en": null,
+                        "subtype_note_es": null
+                    }
+                ]
+            }
+        },
+        "message": "Query was successful for payload {'form_name': 'I-765', 'office_code': 'SSC', 'form_type': '147-C26'}"
+    },
+    "I-765_ESC_147-C26": {
+        "data": {
+            "processing_time": {
+                "form_info_en": "Application for Employment Authorization",
+                "form_info_es": "Solicitud de Autorizaci\u00f3n de Empleo",
+                "form_name": "I-765",
+                "form_note_en": null,
+                "form_note_es": null,
+                "office_code": "ESC",
+                "pilot_content_en": "We generally process cases in the order we receive them. This processing time is based on how long it took us to complete 80% of adjudicated cases over the past six months. Each case is unique, and some cases may take longer than others. Processing times should be used as a reference point, not an absolute measure of how long your case will take to be completed.",
+                "pilot_content_es": "Generalmente procesamos los casos en el orden en que los recibimos. Este tiempo de procesamiento est\u00e1 basado en cu\u00e1nto nos llev\u00f3 completar el 80% de los casos adjudicados en los \u00faltimos seis meses. Cada caso es \u00fanico y algunos casos podr\u00edan tomar m\u00e1s tiempo que otros. Los tiempos de procesamiento deben ser utilizados como puntos de referencia y no como una medida absoluta de cu\u00e1nto tomar\u00e1 su caso en completarse.",
+                "pilot_form": true,
+                "range": [
+                    {
+                        "unit": "Months",
+                        "unit_en": "Months",
+                        "unit_es": "Meses",
+                        "value": 9
+                    },
+                    {
+                        "unit": "Months",
+                        "unit_en": "Months",
+                        "unit_es": "Meses",
+                        "value": 8.5
+                    }
+                ],
+                "subtypes": [
+                    {
+                        "form_type": "147-C26",
+                        "publication_date": "June 03, 2024",
+                        "range": [
+                            {
+                                "unit": "Months",
+                                "unit_en": "Months",
+                                "unit_es": "Meses",
+                                "value": 9
+                            },
+                            {
+                                "unit": "Months",
+                                "unit_en": "Months",
+                                "unit_es": "Meses",
+                                "value": 8.5
+                            }
+                        ],
+                        "service_request_date": "September 26, 2023",
+                        "service_request_date_en": "September 26, 2023",
+                        "service_request_date_es": "26 de septiembre de 2023",
+                        "subtype_info_en": "Based on being an H-4 spouse of an H-1B nonimmigrant (Standalone; not filed with I-539 H4) [(c)(26)]",
+                        "subtype_info_es": "Basado en ser un c\u00f3nyuge de un no inmigrante H-1B (presentado independientemente, no con el I-539 H4) [(c)(26)]",
+                        "subtype_note_en": null,
+                        "subtype_note_es": null
+                    }
+                ]
+            }
+        },
+        "message": "Query was successful for payload {'form_name': 'I-765', 'office_code': 'ESC', 'form_type': '147-C26'}"
+    },
+    "I-765_CSC_147-539C26": {
+        "data": {
+            "processing_time": {
+                "form_info_en": "Application for Employment Authorization",
+                "form_info_es": "Solicitud de Autorizaci\u00f3n de Empleo",
+                "form_name": "I-765",
+                "form_note_en": null,
+                "form_note_es": null,
+                "office_code": "CSC",
+                "pilot_content_en": "We generally process cases in the order we receive them. This processing time is based on how long it took us to complete 80% of adjudicated cases over the past six months. Each case is unique, and some cases may take longer than others. Processing times should be used as a reference point, not an absolute measure of how long your case will take to be completed.",
+                "pilot_content_es": "Generalmente procesamos los casos en el orden en que los recibimos. Este tiempo de procesamiento est\u00e1 basado en cu\u00e1nto nos llev\u00f3 completar el 80% de los casos adjudicados en los \u00faltimos seis meses. Cada caso es \u00fanico y algunos casos podr\u00edan tomar m\u00e1s tiempo que otros. Los tiempos de procesamiento deben ser utilizados como puntos de referencia y no como una medida absoluta de cu\u00e1nto tomar\u00e1 su caso en completarse.",
+                "pilot_form": true,
+                "range": [
+                    {
+                        "unit": "Months",
+                        "unit_en": "Months",
+                        "unit_es": "Meses",
+                        "value": 4.5
+                    },
+                    {
+                        "unit": "Months",
+                        "unit_en": "Months",
+                        "unit_es": "Meses",
+                        "value": 3.5
+                    }
+                ],
+                "subtypes": [
+                    {
+                        "form_type": "147-539C26",
+                        "publication_date": "June 03, 2024",
+                        "range": [
+                            {
+                                "unit": "Months",
+                                "unit_en": "Months",
+                                "unit_es": "Meses",
+                                "value": 4.5
+                            },
+                            {
+                                "unit": "Months",
+                                "unit_en": "Months",
+                                "unit_es": "Meses",
+                                "value": 3.5
+                            }
+                        ],
+                        "service_request_date": "February 03, 2024",
+                        "service_request_date_en": "February 03, 2024",
+                        "service_request_date_es": "03 de febrero de 2024",
+                        "subtype_info_en": "Based on being an H-4 spouse of an H-1B nonimmigrant (filed with I-539 H4) [(c)(26)]",
+                        "subtype_info_es": "Basado en ser un c\u00f3nyuge H-4 de un no inmigrante H-1B (presentado con el Formulario I-539 H4) [(c)(26)]",
+                        "subtype_note_en": null,
+                        "subtype_note_es": null
+                    }
+                ]
+            }
+        },
+        "message": "Query was successful for payload {'form_name': 'I-765', 'office_code': 'CSC', 'form_type': '147-539C26'}"
+    },
+    "I-765_NSC_147-539C26": {
+        "data": {
+            "processing_time": {
+                "form_info_en": "Application for Employment Authorization",
+                "form_info_es": "Solicitud de Autorizaci\u00f3n de Empleo",
+                "form_name": "I-765",
+                "form_note_en": null,
+                "form_note_es": null,
+                "office_code": "NSC",
+                "pilot_content_en": "We generally process cases in the order we receive them. This processing time is based on how long it took us to complete 80% of adjudicated cases over the past six months. Each case is unique, and some cases may take longer than others. Processing times should be used as a reference point, not an absolute measure of how long your case will take to be completed.",
+                "pilot_content_es": "Generalmente procesamos los casos en el orden en que los recibimos. Este tiempo de procesamiento est\u00e1 basado en cu\u00e1nto nos llev\u00f3 completar el 80% de los casos adjudicados en los \u00faltimos seis meses. Cada caso es \u00fanico y algunos casos podr\u00edan tomar m\u00e1s tiempo que otros. Los tiempos de procesamiento deben ser utilizados como puntos de referencia y no como una medida absoluta de cu\u00e1nto tomar\u00e1 su caso en completarse.",
+                "pilot_form": true,
+                "range": [
+                    {
+                        "unit": "Months",
+                        "unit_en": "Months",
+                        "unit_es": "Meses",
+                        "value": 5
+                    },
+                    {
+                        "unit": "Months",
+                        "unit_en": "Months",
+                        "unit_es": "Meses",
+                        "value": 3.5
+                    }
+                ],
+                "subtypes": [
+                    {
+                        "form_type": "147-539C26",
+                        "publication_date": "June 03, 2024",
+                        "range": [
+                            {
+                                "unit": "Months",
+                                "unit_en": "Months",
+                                "unit_es": "Meses",
+                                "value": 5
+                            },
+                            {
+                                "unit": "Months",
+                                "unit_en": "Months",
+                                "unit_es": "Meses",
+                                "value": 3.5
+                            }
+                        ],
+                        "service_request_date": "January 14, 2024",
+                        "service_request_date_en": "January 14, 2024",
+                        "service_request_date_es": "14 de enero de 2024",
+                        "subtype_info_en": "Based on being an H-4 spouse of an H-1B nonimmigrant (filed with I-539 H4) [(c)(26)]",
+                        "subtype_info_es": "Basado en ser un c\u00f3nyuge H-4 de un no inmigrante H-1B (presentado con el Formulario I-539 H4) [(c)(26)]",
+                        "subtype_note_en": null,
+                        "subtype_note_es": null
+                    }
+                ]
+            }
+        },
+        "message": "Query was successful for payload {'form_name': 'I-765', 'office_code': 'NSC', 'form_type': '147-539C26'}"
+    },
+    "I-765_SSC_147-539C26": {
+        "data": {
+            "processing_time": {
+                "form_info_en": "Application for Employment Authorization",
+                "form_info_es": "Solicitud de Autorizaci\u00f3n de Empleo",
+                "form_name": "I-765",
+                "form_note_en": null,
+                "form_note_es": null,
+                "office_code": "SSC",
+                "pilot_content_en": "We generally process cases in the order we receive them. This processing time is based on how long it took us to complete 80% of adjudicated cases over the past six months. Each case is unique, and some cases may take longer than others. Processing times should be used as a reference point, not an absolute measure of how long your case will take to be completed.",
+                "pilot_content_es": "Generalmente procesamos los casos en el orden en que los recibimos. Este tiempo de procesamiento est\u00e1 basado en cu\u00e1nto nos llev\u00f3 completar el 80% de los casos adjudicados en los \u00faltimos seis meses. Cada caso es \u00fanico y algunos casos podr\u00edan tomar m\u00e1s tiempo que otros. Los tiempos de procesamiento deben ser utilizados como puntos de referencia y no como una medida absoluta de cu\u00e1nto tomar\u00e1 su caso en completarse.",
+                "pilot_form": true,
+                "range": [
+                    {
+                        "unit": "Months",
+                        "unit_en": "Months",
+                        "unit_es": "Meses",
+                        "value": 6.5
+                    },
+                    {
+                        "unit": "Months",
+                        "unit_en": "Months",
+                        "unit_es": "Meses",
+                        "value": 5
+                    }
+                ],
+                "subtypes": [
+                    {
+                        "form_type": "147-539C26",
+                        "publication_date": "June 03, 2024",
+                        "range": [
+                            {
+                                "unit": "Months",
+                                "unit_en": "Months",
+                                "unit_es": "Meses",
+                                "value": 6.5
+                            },
+                            {
+                                "unit": "Months",
+                                "unit_en": "Months",
+                                "unit_es": "Meses",
+                                "value": 5
+                            }
+                        ],
+                        "service_request_date": "November 28, 2023",
+                        "service_request_date_en": "November 28, 2023",
+                        "service_request_date_es": "28 de noviembre de 2023",
+                        "subtype_info_en": "Based on being an H-4 spouse of an H-1B nonimmigrant (filed with I-539 H4) [(c)(26)]",
+                        "subtype_info_es": "Basado en ser un c\u00f3nyuge H-4 de un no inmigrante H-1B (presentado con el Formulario I-539 H4) [(c)(26)]",
+                        "subtype_note_en": null,
+                        "subtype_note_es": null
+                    }
+                ]
+            }
+        },
+        "message": "Query was successful for payload {'form_name': 'I-765', 'office_code': 'SSC', 'form_type': '147-539C26'}"
+    },
+    "I-765_ESC_147-539C26": {
+        "data": {
+            "processing_time": {
+                "form_info_en": "Application for Employment Authorization",
+                "form_info_es": "Solicitud de Autorizaci\u00f3n de Empleo",
+                "form_name": "I-765",
+                "form_note_en": null,
+                "form_note_es": null,
+                "office_code": "ESC",
+                "pilot_content_en": "We generally process cases in the order we receive them. This processing time is based on how long it took us to complete 80% of adjudicated cases over the past six months. Each case is unique, and some cases may take longer than others. Processing times should be used as a reference point, not an absolute measure of how long your case will take to be completed.",
+                "pilot_content_es": "Generalmente procesamos los casos en el orden en que los recibimos. Este tiempo de procesamiento est\u00e1 basado en cu\u00e1nto nos llev\u00f3 completar el 80% de los casos adjudicados en los \u00faltimos seis meses. Cada caso es \u00fanico y algunos casos podr\u00edan tomar m\u00e1s tiempo que otros. Los tiempos de procesamiento deben ser utilizados como puntos de referencia y no como una medida absoluta de cu\u00e1nto tomar\u00e1 su caso en completarse.",
+                "pilot_form": true,
+                "range": [
+                    {
+                        "unit": "Months",
+                        "unit_en": "Months",
+                        "unit_es": "Meses",
+                        "value": 7.5
+                    },
+                    {
+                        "unit": "Months",
+                        "unit_en": "Months",
+                        "unit_es": "Meses",
+                        "value": 5.5
+                    }
+                ],
+                "subtypes": [
+                    {
+                        "form_type": "147-539C26",
+                        "publication_date": "June 03, 2024",
+                        "range": [
+                            {
+                                "unit": "Months",
+                                "unit_en": "Months",
+                                "unit_es": "Meses",
+                                "value": 7.5
+                            },
+                            {
+                                "unit": "Months",
+                                "unit_en": "Months",
+                                "unit_es": "Meses",
+                                "value": 5.5
+                            }
+                        ],
+                        "service_request_date": "November 04, 2023",
+                        "service_request_date_en": "November 04, 2023",
+                        "service_request_date_es": "04 de noviembre de 2023",
+                        "subtype_info_en": "Based on being an H-4 spouse of an H-1B nonimmigrant (filed with I-539 H4) [(c)(26)]",
+                        "subtype_info_es": "Basado en ser un c\u00f3nyuge H-4 de un no inmigrante H-1B (presentado con el Formulario I-539 H4) [(c)(26)]",
+                        "subtype_note_en": null,
+                        "subtype_note_es": null
+                    }
+                ]
+            }
+        },
+        "message": "Query was successful for payload {'form_name': 'I-765', 'office_code': 'ESC', 'form_type': '147-539C26'}"
+    },
+    "I-765_CSC_147-OTH": {
+        "data": {
+            "processing_time": {
+                "form_info_en": "Application for Employment Authorization",
+                "form_info_es": "Solicitud de Autorizaci\u00f3n de Empleo",
+                "form_name": "I-765",
+                "form_note_en": null,
+                "form_note_es": null,
+                "office_code": "CSC",
+                "pilot_content_en": "We generally process cases in the order we receive them. This processing time is based on how long it took us to complete 80% of adjudicated cases over the past six months. Each case is unique, and some cases may take longer than others. Processing times should be used as a reference point, not an absolute measure of how long your case will take to be completed.",
+                "pilot_content_es": "Generalmente procesamos los casos en el orden en que los recibimos. Este tiempo de procesamiento est\u00e1 basado en cu\u00e1nto nos llev\u00f3 completar el 80% de los casos adjudicados en los \u00faltimos seis meses. Cada caso es \u00fanico y algunos casos podr\u00edan tomar m\u00e1s tiempo que otros. Los tiempos de procesamiento deben ser utilizados como puntos de referencia y no como una medida absoluta de cu\u00e1nto tomar\u00e1 su caso en completarse.",
+                "pilot_form": true,
+                "range": [
+                    {
+                        "unit": "Months",
+                        "unit_en": "Months",
+                        "unit_es": "Meses",
+                        "value": 15
+                    },
+                    {
+                        "unit": "Months",
+                        "unit_en": "Months",
+                        "unit_es": "Meses",
+                        "value": 14.5
+                    }
+                ],
+                "subtypes": [
+                    {
+                        "form_type": "147-OTH",
+                        "publication_date": "June 03, 2024",
+                        "range": [
+                            {
+                                "unit": "Months",
+                                "unit_en": "Months",
+                                "unit_es": "Meses",
+                                "value": 15
+                            },
+                            {
+                                "unit": "Months",
+                                "unit_en": "Months",
+                                "unit_es": "Meses",
+                                "value": 14.5
+                            }
+                        ],
+                        "service_request_date": "March 15, 2023",
+                        "service_request_date_en": "March 15, 2023",
+                        "service_request_date_es": "15 de marzo de 2023",
+                        "subtype_info_en": "All other applications for employment authorization",
+                        "subtype_info_es": "Todas las dem\u00e1s solicitudes para autorizaci\u00f3n de empleo",
+                        "subtype_note_en": null,
+                        "subtype_note_es": null
+                    }
+                ]
+            }
+        },
+        "message": "Query was successful for payload {'form_name': 'I-765', 'office_code': 'CSC', 'form_type': '147-OTH'}"
+    },
+    "I-765_NSC_147-OTH": {
+        "data": {
+            "processing_time": {
+                "form_info_en": "Application for Employment Authorization",
+                "form_info_es": "Solicitud de Autorizaci\u00f3n de Empleo",
+                "form_name": "I-765",
+                "form_note_en": null,
+                "form_note_es": null,
+                "office_code": "NSC",
+                "pilot_content_en": "We generally process cases in the order we receive them. This processing time is based on how long it took us to complete 80% of adjudicated cases over the past six months. Each case is unique, and some cases may take longer than others. Processing times should be used as a reference point, not an absolute measure of how long your case will take to be completed.",
+                "pilot_content_es": "Generalmente procesamos los casos en el orden en que los recibimos. Este tiempo de procesamiento est\u00e1 basado en cu\u00e1nto nos llev\u00f3 completar el 80% de los casos adjudicados en los \u00faltimos seis meses. Cada caso es \u00fanico y algunos casos podr\u00edan tomar m\u00e1s tiempo que otros. Los tiempos de procesamiento deben ser utilizados como puntos de referencia y no como una medida absoluta de cu\u00e1nto tomar\u00e1 su caso en completarse.",
+                "pilot_form": true,
+                "range": [
+                    {
+                        "unit": "Months",
+                        "unit_en": "Months",
+                        "unit_es": "Meses",
+                        "value": 8
+                    },
+                    {
+                        "unit": "Months",
+                        "unit_en": "Months",
+                        "unit_es": "Meses",
+                        "value": 6.5
+                    }
+                ],
+                "subtypes": [
+                    {
+                        "form_type": "147-OTH",
+                        "publication_date": "June 03, 2024",
+                        "range": [
+                            {
+                                "unit": "Months",
+                                "unit_en": "Months",
+                                "unit_es": "Meses",
+                                "value": 8
+                            },
+                            {
+                                "unit": "Months",
+                                "unit_en": "Months",
+                                "unit_es": "Meses",
+                                "value": 6.5
+                            }
+                        ],
+                        "service_request_date": "October 18, 2023",
+                        "service_request_date_en": "October 18, 2023",
+                        "service_request_date_es": "18 de octubre de 2023",
+                        "subtype_info_en": "All other applications for employment authorization",
+                        "subtype_info_es": "Todas las dem\u00e1s solicitudes para autorizaci\u00f3n de empleo",
+                        "subtype_note_en": null,
+                        "subtype_note_es": null
+                    }
+                ]
+            }
+        },
+        "message": "Query was successful for payload {'form_name': 'I-765', 'office_code': 'NSC', 'form_type': '147-OTH'}"
+    },
+    "I-765_SSC_147-OTH": {
+        "data": {
+            "processing_time": {
+                "form_info_en": "Application for Employment Authorization",
+                "form_info_es": "Solicitud de Autorizaci\u00f3n de Empleo",
+                "form_name": "I-765",
+                "form_note_en": null,
+                "form_note_es": null,
+                "office_code": "SSC",
+                "pilot_content_en": "We generally process cases in the order we receive them. This processing time is based on how long it took us to complete 80% of adjudicated cases over the past six months. Each case is unique, and some cases may take longer than others. Processing times should be used as a reference point, not an absolute measure of how long your case will take to be completed.",
+                "pilot_content_es": "Generalmente procesamos los casos en el orden en que los recibimos. Este tiempo de procesamiento est\u00e1 basado en cu\u00e1nto nos llev\u00f3 completar el 80% de los casos adjudicados en los \u00faltimos seis meses. Cada caso es \u00fanico y algunos casos podr\u00edan tomar m\u00e1s tiempo que otros. Los tiempos de procesamiento deben ser utilizados como puntos de referencia y no como una medida absoluta de cu\u00e1nto tomar\u00e1 su caso en completarse.",
+                "pilot_form": true,
+                "range": [
+                    {
+                        "unit": "Months",
+                        "unit_en": "Months",
+                        "unit_es": "Meses",
+                        "value": 5.5
+                    },
+                    {
+                        "unit": "Months",
+                        "unit_en": "Months",
+                        "unit_es": "Meses",
+                        "value": 3.5
+                    }
+                ],
+                "subtypes": [
+                    {
+                        "form_type": "147-OTH",
+                        "publication_date": "June 03, 2024",
+                        "range": [
+                            {
+                                "unit": "Months",
+                                "unit_en": "Months",
+                                "unit_es": "Meses",
+                                "value": 5.5
+                            },
+                            {
+                                "unit": "Months",
+                                "unit_en": "Months",
+                                "unit_es": "Meses",
+                                "value": 3.5
+                            }
+                        ],
+                        "service_request_date": "December 28, 2023",
+                        "service_request_date_en": "December 28, 2023",
+                        "service_request_date_es": "28 de diciembre de 2023",
+                        "subtype_info_en": "All other applications for employment authorization",
+                        "subtype_info_es": "Todas las dem\u00e1s solicitudes para autorizaci\u00f3n de empleo",
+                        "subtype_note_en": null,
+                        "subtype_note_es": null
+                    }
+                ]
+            }
+        },
+        "message": "Query was successful for payload {'form_name': 'I-765', 'office_code': 'SSC', 'form_type': '147-OTH'}"
+    },
+    "I-765_ESC_147-OTH": {
+        "data": {
+            "processing_time": {
+                "form_info_en": "Application for Employment Authorization",
+                "form_info_es": "Solicitud de Autorizaci\u00f3n de Empleo",
+                "form_name": "I-765",
+                "form_note_en": null,
+                "form_note_es": null,
+                "office_code": "ESC",
+                "pilot_content_en": "We generally process cases in the order we receive them. This processing time is based on how long it took us to complete 80% of adjudicated cases over the past six months. Each case is unique, and some cases may take longer than others. Processing times should be used as a reference point, not an absolute measure of how long your case will take to be completed.",
+                "pilot_content_es": "Generalmente procesamos los casos en el orden en que los recibimos. Este tiempo de procesamiento est\u00e1 basado en cu\u00e1nto nos llev\u00f3 completar el 80% de los casos adjudicados en los \u00faltimos seis meses. Cada caso es \u00fanico y algunos casos podr\u00edan tomar m\u00e1s tiempo que otros. Los tiempos de procesamiento deben ser utilizados como puntos de referencia y no como una medida absoluta de cu\u00e1nto tomar\u00e1 su caso en completarse.",
+                "pilot_form": true,
+                "range": [
+                    {
+                        "unit": "Months",
+                        "unit_en": "Months",
+                        "unit_es": "Meses",
+                        "value": 15
+                    },
+                    {
+                        "unit": "Months",
+                        "unit_en": "Months",
+                        "unit_es": "Meses",
+                        "value": 13.5
+                    }
+                ],
+                "subtypes": [
+                    {
+                        "form_type": "147-OTH",
+                        "publication_date": "June 03, 2024",
+                        "range": [
+                            {
+                                "unit": "Months",
+                                "unit_en": "Months",
+                                "unit_es": "Meses",
+                                "value": 15
+                            },
+                            {
+                                "unit": "Months",
+                                "unit_en": "Months",
+                                "unit_es": "Meses",
+                                "value": 13.5
+                            }
+                        ],
+                        "service_request_date": "March 16, 2023",
+                        "service_request_date_en": "March 16, 2023",
+                        "service_request_date_es": "16 de marzo de 2023",
+                        "subtype_info_en": "All other applications for employment authorization",
+                        "subtype_info_es": "Todas las dem\u00e1s solicitudes para autorizaci\u00f3n de empleo",
+                        "subtype_note_en": null,
+                        "subtype_note_es": null
+                    }
+                ]
+            }
+        },
+        "message": "Query was successful for payload {'form_name': 'I-765', 'office_code': 'ESC', 'form_type': '147-OTH'}"
+    },
+    "I-765_YSC_147-OTH": {
+        "data": {
+            "processing_time": {
+                "form_info_en": "Application for Employment Authorization",
+                "form_info_es": "Solicitud de Autorizaci\u00f3n de Empleo",
+                "form_name": "I-765",
+                "form_note_en": null,
+                "form_note_es": null,
+                "office_code": "YSC",
+                "pilot_content_en": "We generally process cases in the order we receive them. This processing time is based on how long it took us to complete 80% of adjudicated cases over the past six months. Each case is unique, and some cases may take longer than others. Processing times should be used as a reference point, not an absolute measure of how long your case will take to be completed.",
+                "pilot_content_es": "Generalmente procesamos los casos en el orden en que los recibimos. Este tiempo de procesamiento est\u00e1 basado en cu\u00e1nto nos llev\u00f3 completar el 80% de los casos adjudicados en los \u00faltimos seis meses. Cada caso es \u00fanico y algunos casos podr\u00edan tomar m\u00e1s tiempo que otros. Los tiempos de procesamiento deben ser utilizados como puntos de referencia y no como una medida absoluta de cu\u00e1nto tomar\u00e1 su caso en completarse.",
+                "pilot_form": true,
+                "range": [
+                    {
+                        "unit": "Months",
+                        "unit_en": "Months",
+                        "unit_es": "Meses",
+                        "value": 14.5
+                    },
+                    {
+                        "unit": "Months",
+                        "unit_en": "Months",
+                        "unit_es": "Meses",
+                        "value": 6
+                    }
+                ],
+                "subtypes": [
+                    {
+                        "form_type": "147-OTH",
+                        "publication_date": "June 03, 2024",
+                        "range": [
+                            {
+                                "unit": "Months",
+                                "unit_en": "Months",
+                                "unit_es": "Meses",
+                                "value": 14.5
+                            },
+                            {
+                                "unit": "Months",
+                                "unit_en": "Months",
+                                "unit_es": "Meses",
+                                "value": 6
+                            }
+                        ],
+                        "service_request_date": "March 27, 2023",
+                        "service_request_date_en": "March 27, 2023",
+                        "service_request_date_es": "27 de marzo de 2023",
+                        "subtype_info_en": "All other applications for employment authorization",
+                        "subtype_info_es": "Todas las dem\u00e1s solicitudes para autorizaci\u00f3n de empleo",
+                        "subtype_note_en": null,
+                        "subtype_note_es": null
+                    }
+                ]
+            }
+        },
+        "message": "Query was successful for payload {'form_name': 'I-765', 'office_code': 'YSC', 'form_type': '147-OTH'}"
+    },
+    "I-765_NBC_147-OTH": {
+        "data": {
+            "processing_time": {
+                "form_info_en": "Application for Employment Authorization",
+                "form_info_es": "Solicitud de Autorizaci\u00f3n de Empleo",
+                "form_name": "I-765",
+                "form_note_en": null,
+                "form_note_es": null,
+                "office_code": "NBC",
+                "pilot_content_en": "We generally process cases in the order we receive them. This processing time is based on how long it took us to complete 80% of adjudicated cases over the past six months. Each case is unique, and some cases may take longer than others. Processing times should be used as a reference point, not an absolute measure of how long your case will take to be completed.",
+                "pilot_content_es": "Generalmente procesamos los casos en el orden en que los recibimos. Este tiempo de procesamiento est\u00e1 basado en cu\u00e1nto nos llev\u00f3 completar el 80% de los casos adjudicados en los \u00faltimos seis meses. Cada caso es \u00fanico y algunos casos podr\u00edan tomar m\u00e1s tiempo que otros. Los tiempos de procesamiento deben ser utilizados como puntos de referencia y no como una medida absoluta de cu\u00e1nto tomar\u00e1 su caso en completarse.",
+                "pilot_form": true,
+                "range": [
+                    {
+                        "unit": "Months",
+                        "unit_en": "Months",
+                        "unit_es": "Meses",
+                        "value": 7
+                    },
+                    {
+                        "unit": "Months",
+                        "unit_en": "Months",
+                        "unit_es": "Meses",
+                        "value": 5.5
+                    }
+                ],
+                "subtypes": [
+                    {
+                        "form_type": "147-OTH",
+                        "publication_date": "June 03, 2024",
+                        "range": [
+                            {
+                                "unit": "Months",
+                                "unit_en": "Months",
+                                "unit_es": "Meses",
+                                "value": 7
+                            },
+                            {
+                                "unit": "Months",
+                                "unit_en": "Months",
+                                "unit_es": "Meses",
+                                "value": 5.5
+                            }
+                        ],
+                        "service_request_date": "November 12, 2023",
+                        "service_request_date_en": "November 12, 2023",
+                        "service_request_date_es": "12 de noviembre de 2023",
+                        "subtype_info_en": "All other applications for employment authorization",
+                        "subtype_info_es": "Todas las dem\u00e1s solicitudes para autorizaci\u00f3n de empleo",
+                        "subtype_note_en": null,
+                        "subtype_note_es": null
+                    }
+                ]
+            }
+        },
+        "message": "Query was successful for payload {'form_name': 'I-765', 'office_code': 'NBC', 'form_type': '147-OTH'}"
+    }
+}
